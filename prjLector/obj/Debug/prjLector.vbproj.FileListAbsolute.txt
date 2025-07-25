@@ -1,0 +1,60 @@
+F:\prjLectorVB_NET\prjLector\prjLector\bin\Debug\prjLector.exe.config
+F:\prjLectorVB_NET\prjLector\prjLector\bin\Debug\prjLector.exe
+F:\prjLectorVB_NET\prjLector\prjLector\bin\Debug\prjLector.pdb
+F:\prjLectorVB_NET\prjLector\prjLector\bin\Debug\prjLector.xml
+F:\prjLectorVB_NET\prjLector\prjLector\obj\Debug\prjLector.vbprojAssemblyReference.cache
+F:\prjLectorVB_NET\prjLector\prjLector\obj\Debug\prjLector.Resources.resources
+F:\prjLectorVB_NET\prjLector\prjLector\obj\Debug\prjLector.vbproj.GenerateResource.cache
+F:\prjLectorVB_NET\prjLector\prjLector\obj\Debug\prjLector.vbproj.CoreCompileInputs.cache
+F:\prjLectorVB_NET\prjLector\prjLector\obj\Debug\prjLector.exe
+F:\prjLectorVB_NET\prjLector\prjLector\obj\Debug\prjLector.xml
+F:\prjLectorVB_NET\prjLector\prjLector\obj\Debug\prjLector.pdb
+F:\prjLectorVB_NET\prjLector\prjLector\obj\Debug\prjLector.frmInicio.resources
+F:\prjLectorVB_NET\prjLector\prjLector\obj\Debug\prjLector.acceso.resources
+D:\Projects DAE\prjLectorVB_NET\prjLector\prjLector\bin\Debug\prjLector.exe.config
+D:\Projects DAE\prjLectorVB_NET\prjLector\prjLector\bin\Debug\prjLector.exe
+D:\Projects DAE\prjLectorVB_NET\prjLector\prjLector\bin\Debug\prjLector.pdb
+D:\Projects DAE\prjLectorVB_NET\prjLector\prjLector\bin\Debug\prjLector.xml
+D:\Projects DAE\prjLectorVB_NET\prjLector\prjLector\obj\Debug\prjLector.vbproj.AssemblyReference.cache
+D:\Projects DAE\prjLectorVB_NET\prjLector\prjLector\obj\Debug\prjLector.exe.config
+D:\Projects DAE\prjLectorVB_NET\prjLector\prjLector\obj\Debug\prjLector.acceso.resources
+D:\Projects DAE\prjLectorVB_NET\prjLector\prjLector\obj\Debug\prjLector.frmInicio.resources
+D:\Projects DAE\prjLectorVB_NET\prjLector\prjLector\obj\Debug\prjLector.Resources.resources
+D:\Projects DAE\prjLectorVB_NET\prjLector\prjLector\obj\Debug\prjLector.vbproj.GenerateResource.cache
+D:\Projects DAE\prjLectorVB_NET\prjLector\prjLector\obj\Debug\prjLector.vbproj.CoreCompileInputs.cache
+D:\Projects DAE\prjLectorVB_NET\prjLector\prjLector\obj\Debug\prjLector.exe
+D:\Projects DAE\prjLectorVB_NET\prjLector\prjLector\obj\Debug\prjLector.xml
+D:\Projects DAE\prjLectorVB_NET\prjLector\prjLector\obj\Debug\prjLector.pdb
+D:\Projects DAE\prjLectorVB_NET\prjLector\prjLector\bin\Debug\BouncyCastle.Cryptography.dll
+D:\Projects DAE\prjLectorVB_NET\prjLector\prjLector\bin\Debug\Google.Protobuf.dll
+D:\Projects DAE\prjLectorVB_NET\prjLector\prjLector\bin\Debug\K4os.Compression.LZ4.dll
+D:\Projects DAE\prjLectorVB_NET\prjLector\prjLector\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Projects DAE\prjLectorVB_NET\prjLector\prjLector\bin\Debug\K4os.Hash.xxHash.dll
+D:\Projects DAE\prjLectorVB_NET\prjLector\prjLector\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Projects DAE\prjLectorVB_NET\prjLector\prjLector\bin\Debug\MySql.Data.dll
+D:\Projects DAE\prjLectorVB_NET\prjLector\prjLector\bin\Debug\System.Buffers.dll
+D:\Projects DAE\prjLectorVB_NET\prjLector\prjLector\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\Projects DAE\prjLectorVB_NET\prjLector\prjLector\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Projects DAE\prjLectorVB_NET\prjLector\prjLector\bin\Debug\System.IO.Pipelines.dll
+D:\Projects DAE\prjLectorVB_NET\prjLector\prjLector\bin\Debug\System.Memory.dll
+D:\Projects DAE\prjLectorVB_NET\prjLector\prjLector\bin\Debug\System.Numerics.Vectors.dll
+D:\Projects DAE\prjLectorVB_NET\prjLector\prjLector\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Projects DAE\prjLectorVB_NET\prjLector\prjLector\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Projects DAE\prjLectorVB_NET\prjLector\prjLector\bin\Debug\ZstdSharp.dll
+D:\Projects DAE\prjLectorVB_NET\prjLector\prjLector\bin\Debug\BouncyCastle.Cryptography.xml
+D:\Projects DAE\prjLectorVB_NET\prjLector\prjLector\bin\Debug\Google.Protobuf.pdb
+D:\Projects DAE\prjLectorVB_NET\prjLector\prjLector\bin\Debug\Google.Protobuf.xml
+D:\Projects DAE\prjLectorVB_NET\prjLector\prjLector\bin\Debug\K4os.Compression.LZ4.xml
+D:\Projects DAE\prjLectorVB_NET\prjLector\prjLector\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\Projects DAE\prjLectorVB_NET\prjLector\prjLector\bin\Debug\K4os.Hash.xxHash.xml
+D:\Projects DAE\prjLectorVB_NET\prjLector\prjLector\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Projects DAE\prjLectorVB_NET\prjLector\prjLector\bin\Debug\MySql.Data.xml
+D:\Projects DAE\prjLectorVB_NET\prjLector\prjLector\bin\Debug\System.Buffers.xml
+D:\Projects DAE\prjLectorVB_NET\prjLector\prjLector\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\Projects DAE\prjLectorVB_NET\prjLector\prjLector\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Projects DAE\prjLectorVB_NET\prjLector\prjLector\bin\Debug\System.IO.Pipelines.xml
+D:\Projects DAE\prjLectorVB_NET\prjLector\prjLector\bin\Debug\System.Memory.xml
+D:\Projects DAE\prjLectorVB_NET\prjLector\prjLector\bin\Debug\System.Numerics.Vectors.xml
+D:\Projects DAE\prjLectorVB_NET\prjLector\prjLector\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Projects DAE\prjLectorVB_NET\prjLector\prjLector\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Projects DAE\prjLectorVB_NET\prjLector\prjLector\obj\Debug\prjLector.vbproj.Up2Date
