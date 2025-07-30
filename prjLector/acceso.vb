@@ -1,11 +1,11 @@
 ﻿Imports System.Data
-Imports System.Data.SqlClient
+Imports MySql.Data.MySqlClient
 
 Public Class acceso
 
-    Dim con As SqlConnection
-    Dim cmd As SqlCommand
-    Dim rdr As SqlDataReader
+    Dim con As MySqlConnection
+    Dim cmd As MySqlCommand
+    Dim rdr As MySqlDataReader
 
     Private Sub PictureBox2_Click(sender As Object, e As EventArgs) Handles PictureBox2.Click
         Me.Close()
@@ -24,14 +24,18 @@ Public Class acceso
         End If
 
         Try
-            con = New SqlConnection("Data Source=DESKTOP-E8AVPG9;Initial Catalog=BD_CRUD;Integrated Security=True")
+            con = New MySqlConnection("Server=localhost;Database=webproject;Uid=gleend;Pwd=gleendk;")
             con.Open()
-            cmd = New SqlCommand("Select * from Usuarios where Usuario ='" & txtUsuario.Text & "' and Clave ='" & txtClave.Text & "'")
-            cmd.Connection = con
+            Dim usuario As String = txtUsuario.Text.Trim()
+            Dim clave As String = txtClave.Text.Trim()
+            'MsgBox("Usuario: " & usuario & " - Clave: " & clave) ' Depuración
+            cmd = New MySqlCommand("SELECT * FROM users WHERE nombre_usuario = @usuario AND contrasena = @clave", con)
+            cmd.Parameters.AddWithValue("@usuario", usuario)
+            cmd.Parameters.AddWithValue("@clave", clave)
             rdr = cmd.ExecuteReader()
 
             If (rdr.Read) Then
-                MsgBox("Bienvenido :" & rdr("Nombre").ToString)
+                MsgBox("Bienvenido :" & rdr("nombre_usuario").ToString)
                 'frmMenu.Show()
                 Me.Hide()
             Else
@@ -42,8 +46,11 @@ Public Class acceso
             End If
 
         Catch ex As Exception
-            MsgBox("Error al conectarse")
+            MsgBox("Error al conectarse: " & ex.Message)
         End Try
     End Sub
 
+    Private Sub acceso_Load(sender As Object, e As EventArgs) Handles MyBase.Load
+
+    End Sub
 End Class

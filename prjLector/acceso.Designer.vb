@@ -36,10 +36,10 @@ Partial Class acceso
         '
         Me.PictureBox1.BackColor = System.Drawing.Color.Transparent
         Me.PictureBox1.Cursor = System.Windows.Forms.Cursors.Hand
-        Me.PictureBox1.Location = New System.Drawing.Point(176, 266)
-        Me.PictureBox1.Margin = New System.Windows.Forms.Padding(2)
+        Me.PictureBox1.Location = New System.Drawing.Point(235, 327)
+        Me.PictureBox1.Margin = New System.Windows.Forms.Padding(3, 2, 3, 2)
         Me.PictureBox1.Name = "PictureBox1"
-        Me.PictureBox1.Size = New System.Drawing.Size(91, 54)
+        Me.PictureBox1.Size = New System.Drawing.Size(121, 66)
         Me.PictureBox1.TabIndex = 0
         Me.PictureBox1.TabStop = False
         '
@@ -47,31 +47,31 @@ Partial Class acceso
         '
         Me.PictureBox2.BackColor = System.Drawing.Color.Transparent
         Me.PictureBox2.Cursor = System.Windows.Forms.Cursors.Hand
-        Me.PictureBox2.Location = New System.Drawing.Point(288, 266)
-        Me.PictureBox2.Margin = New System.Windows.Forms.Padding(2)
+        Me.PictureBox2.Location = New System.Drawing.Point(384, 327)
+        Me.PictureBox2.Margin = New System.Windows.Forms.Padding(3, 2, 3, 2)
         Me.PictureBox2.Name = "PictureBox2"
-        Me.PictureBox2.Size = New System.Drawing.Size(158, 54)
+        Me.PictureBox2.Size = New System.Drawing.Size(211, 66)
         Me.PictureBox2.TabIndex = 1
         Me.PictureBox2.TabStop = False
         '
         'txtUsuario
         '
         Me.txtUsuario.BorderStyle = System.Windows.Forms.BorderStyle.None
-        Me.txtUsuario.Location = New System.Drawing.Point(182, 120)
-        Me.txtUsuario.Margin = New System.Windows.Forms.Padding(2)
+        Me.txtUsuario.Location = New System.Drawing.Point(243, 148)
+        Me.txtUsuario.Margin = New System.Windows.Forms.Padding(3, 2, 3, 2)
         Me.txtUsuario.Multiline = True
         Me.txtUsuario.Name = "txtUsuario"
-        Me.txtUsuario.Size = New System.Drawing.Size(252, 32)
+        Me.txtUsuario.Size = New System.Drawing.Size(336, 39)
         Me.txtUsuario.TabIndex = 2
         '
         'txtClave
         '
         Me.txtClave.BorderStyle = System.Windows.Forms.BorderStyle.None
-        Me.txtClave.Location = New System.Drawing.Point(182, 197)
-        Me.txtClave.Margin = New System.Windows.Forms.Padding(2)
+        Me.txtClave.Location = New System.Drawing.Point(243, 242)
+        Me.txtClave.Margin = New System.Windows.Forms.Padding(3, 2, 3, 2)
         Me.txtClave.Multiline = True
         Me.txtClave.Name = "txtClave"
-        Me.txtClave.Size = New System.Drawing.Size(252, 24)
+        Me.txtClave.Size = New System.Drawing.Size(336, 30)
         Me.txtClave.TabIndex = 3
         Me.txtClave.UseSystemPasswordChar = True
         '
@@ -81,27 +81,28 @@ Partial Class acceso
         Me.chkVerClave.BackColor = System.Drawing.Color.Transparent
         Me.chkVerClave.FlatStyle = System.Windows.Forms.FlatStyle.Popup
         Me.chkVerClave.ForeColor = System.Drawing.SystemColors.ActiveCaptionText
-        Me.chkVerClave.Location = New System.Drawing.Point(347, 236)
+        Me.chkVerClave.Location = New System.Drawing.Point(463, 290)
+        Me.chkVerClave.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
         Me.chkVerClave.Name = "chkVerClave"
-        Me.chkVerClave.Size = New System.Drawing.Size(97, 17)
+        Me.chkVerClave.Size = New System.Drawing.Size(119, 20)
         Me.chkVerClave.TabIndex = 4
         Me.chkVerClave.Text = "Ver Contraseña"
         Me.chkVerClave.UseVisualStyleBackColor = False
         '
         'acceso
         '
-        Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
+        Me.AutoScaleDimensions = New System.Drawing.SizeF(8.0!, 16.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.BackgroundImage = CType(resources.GetObject("$this.BackgroundImage"), System.Drawing.Image)
         Me.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch
-        Me.ClientSize = New System.Drawing.Size(476, 352)
+        Me.ClientSize = New System.Drawing.Size(635, 433)
         Me.Controls.Add(Me.chkVerClave)
         Me.Controls.Add(Me.txtClave)
         Me.Controls.Add(Me.txtUsuario)
         Me.Controls.Add(Me.PictureBox2)
         Me.Controls.Add(Me.PictureBox1)
         Me.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None
-        Me.Margin = New System.Windows.Forms.Padding(2)
+        Me.Margin = New System.Windows.Forms.Padding(3, 2, 3, 2)
         Me.Name = "acceso"
         Me.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen
         Me.Text = "acceso"
